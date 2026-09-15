@@ -38,6 +38,6 @@ Java 17 · Spring Boot · Spring MVC · Thymeleaf · JPA · MySQL
 Going deeper on Spring Security internals and JPA query performance, and
 solving DSA in Java daily.
 
-Open to Java Backend and Full Stack roles — Bengaluru, Hyderabad, Pune, NCR.
+Open to Java Backend and Full Stack roles — Bengaluru, Hyderabad, Pune, NCR, Jaipur, Chennai, Noida, Gurgaon, Ahmedabad.
 
 📫 **gupta.chinmay098@gmail.com** · [LinkedIn](https://www.linkedin.com/in/chinmay-dev)
