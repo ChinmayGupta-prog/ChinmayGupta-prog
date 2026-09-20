@@ -14,7 +14,7 @@ React · Git
 
 ### What I'm building
 
-**[SmartDesk — Employee Support Ticket System](https://github.com/ChinmayGupta-prog/smartdesk-employee-support-ticket-system)**  
+**[SmartDesk — Employee Support Ticket System](https://github.com/ChinmayGupta-prog/studentbites-restaurant-order-management-system.git)**  
 Role-based help desk for raising, assigning, and resolving support tickets.  
 JWT authentication with rotating refresh tokens, layered authorization across
 employee / agent / admin, controlled ticket status transitions with full audit
